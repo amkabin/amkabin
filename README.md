@@ -1,10 +1,10 @@
-# <div align="center"> B̵̴҉̞̠̘̩͍́͊͗͠͠͠͠ͱR̴҉̷̨̖̮̉͑ͯ̑̋͟͠I҉̡̯̺̜̅́͋̃͢A҉҉̦̣̤͔̟̩̋̿̏ͦ̈́̍͟͠N̵҉̾͟͞͡ K҉̿ͭ͘͜A҉҉̦̣̤͔̟̩̋̿̏ͦ̈́̍͟͠V̶̝̐̀͝U̵̶̸̹̮̹̲̻͙̎ͪͣͦ͡͞͡͡K҉̿ͭ͘͜U̵̶̸̹̮̹̲̻͙̎ͪͣͦ͡͞͡͡A҉҉̦̣̤͔̟̩̋̿̏ͦ̈́̍͟͠ </div>
+# <div align="center"> 𝕭𝕽𝕀Αℕ 𝓚Α𝓥𝕌𝓚𝕌Α</div>
 
 <div align="center">
   
 ### `Software Engineer | Full-Stack Developer | Digital Creator`
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time;Full-Stack+Developer;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Coding)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&center=true&vCenter=true&width=700&lines=Building+the+future%2C+one+commit+at+a+time;Full-Stack+Developer;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Coding)
 
 </div>
 
