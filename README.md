@@ -30,13 +30,13 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### ⚡ QUICK FACTS
+## ⚡ Quick Facts
 
-- 🔭 Currently building **full-stack web applications**
-- 🌱 Learning **advanced React patterns & trading algorithms**
-- 💡 Passionate about **clean code & system design**
-- 🎯 2024 Goal: **Ship 10+ projects**
-- ⚡ Fun fact: **I think in semicolons;**
+- 🔭 Currently building full-stack web applications & open-source projects
+- 🌱 Currently learning advanced system design, cloud deployment, and AI integration
+- 💡 Passionate about clean code, scalable architecture, and solving real-world problems
+- 🚀 Goal: Build products that impact thousands of users
+- ⚡ Fun fact: I debug faster after a cup of coffee ☕
 - 📫 Reach me: **kavukuabrian@gmail.com**
 
 <br clear="right"/>
