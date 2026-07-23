@@ -80,9 +80,7 @@ me.say_hi()
 
 </details>
 
----
-
-### 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amkabin&show_icons=true&theme=radical&hide_border=true" />
@@ -92,44 +90,30 @@ me.say_hi()
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkabin&layout=compact&theme=radical&hide_border=true" />
 </p>
----
-
-### 🏆 ACHIEVEMENTS
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=amkabin&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
 
 ---
 
-### 📈 CONTRIBUTION GRAPH
+## 🏆 Achievements
 
-[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amkabin&theme=redical&hide_border=true)](https://github.com/amkabin)
-
----
-
-### 🎯 TOP REPOSITORIES
-
-<div align="center">
-
-[![](https://github-readme-stats.shion.dev/api/pin/?username=amkabin&repo=YOUR_REPO_NAME&theme=radical&hide_border=true)](https://github.com/amkabin/YOUR_REPO_NAME)
-[![](https://github-readme-stats.shion.dev/api/pin/?username=amkabin&repo=YOUR_REPO_NAME&theme=radical&hide_border=true)](https://github.com/amkabin/YOUR_REPO_NAME)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amkabin&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-### 💬 RANDOM DEV QUOTE
+## 📈 Contribution Graph
 
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amkabin&theme=radical&hide_border=true" />
+</p>
 
 ---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</p>
 
 ### 🌐 CONNECT WITH ME
 
