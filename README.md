@@ -1,120 +1,164 @@
-# 💫 About Me:
+# <div align="center">🚀 BRIAN KAVUKUA 🚀</div>
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  👋 Hey, I'm Brian — Code Architect & Digital Innovator   ║
-╚═══════════════════════════════════════════════════════════╝
+<div align="center">
+  
+### `Software Engineer | Full-Stack Developer | Digital Creator`
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time;Full-Stack+Developer;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Coding)
+
+</div>
+
+---
+
+### 👨‍💻 WHO AM I?
+
+```python
+class Brian:
+    def __init__(self):
+        self.name = "Brian Kavukua"
+        self.role = "Software Engineering Student"
+        self.location = "Earth 🌍"
+        self.languages = ["JavaScript", "HTML", "CSS", "SQL"]
+        self.passions = ["Web Dev", "Trading Bots", "Clean Code"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something epic together 🔥")
+
+me = Brian()
+me.say_hi()
 ```
 
-🎯 **Software Engineering Student** | 🧩 **Problem Solver** | ⚡ **Tech Enthusiast**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-> *"Turning caffeine into code and ideas into impact."*
+### ⚡ QUICK FACTS
 
-I don't just write code — I craft **scalable solutions** and **elegant systems** that matter. From web apps to trading algorithms, I thrive at the intersection of **innovation** and **execution**.
+- 🔭 Currently building **full-stack web applications**
+- 🌱 Learning **advanced React patterns & trading algorithms**
+- 💡 Passionate about **clean code & system design**
+- 🎯 2024 Goal: **Ship 10+ projects**
+- ⚡ Fun fact: **I think in semicolons;**
+- 📫 Reach me: **kavukuabrian@gmail.com**
 
-```javascript
-const brian = {
-    code: ["JavaScript", "HTML", "CSS", "Node.js"],
-    currentFocus: "Building full-stack applications",
-    challenge: "Mastering system design & algorithmic trading",
-    funFact: "I debug faster than I drink coffee ☕"
-};
-```
-
-**🔥 Current Mission:**
-- 🌱 Deep-diving into **React** ecosystems
-- 🤖 Exploring **AI-powered trading systems**
-- 🚀 Shipping products that users actually love
+<br clear="right"/>
 
 ---
 
-## 🌐 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am.mayor_x) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-kavukua-301b88404) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ammayor_x) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavukuabrian@gmail.com)
+### 🛠️ TECH TOOLBOX
 
-💬 **Open to:** Collaborations • Freelance Projects • Coffee Chats about Tech
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</details>
 
 ---
 
-## 💻 Tech Arsenal:
-
-**Frontend Magic:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Backend Wizardry:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Database Mastery:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Cloud & Deployment:**  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
----
-
-## 📊 GitHub Analytics:
+### 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=amkabin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=amkabin&theme=tokyonight&hide_border=true" height="170"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=amkabin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=amkabin&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amkabin&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=amkabin&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 ---
 
-## 🏆 Achievement Showcase:
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=amkabin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 💭 Dev Wisdom:
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🔝 Top Contributions:
-![](https://github-contributor-stats.vercel.app/api?username=amkabin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
+### 🏆 ACHIEVEMENTS
 
 <div align="center">
   
-### 📈 Profile Views:
-[![](https://komarev.com/ghpvc/?username=amkabin&icon=5&color=blueviolet&style=for-the-badge)](https://visitcount.itsvg.in)
-
-### ⚡ Fun Fact:
-*"There are only 10 types of people in the world: those who understand binary, and those who don't."*
-
----
-
-**💼 Open for opportunities** • **🚀 Always shipping** • **📫 Let's build something awesome together!**
+![](https://github-profile-trophy.vercel.app/?username=amkabin&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📈 CONTRIBUTION GRAPH
+
+[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amkabin&theme=redical&hide_border=true)](https://github.com/amkabin)
+
+---
+
+### 🎯 TOP REPOSITORIES
+
+<div align="center">
+
+[![](https://github-readme-stats.shion.dev/api/pin/?username=amkabin&repo=YOUR_REPO_NAME&theme=radical&hide_border=true)](https://github.com/amkabin/YOUR_REPO_NAME)
+[![](https://github-readme-stats.shion.dev/api/pin/?username=amkabin&repo=YOUR_REPO_NAME&theme=radical&hide_border=true)](https://github.com/amkabin/YOUR_REPO_NAME)
+
+</div>
+
+---
+
+### 💬 RANDOM DEV QUOTE
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+</div>
+
+---
+
+### 🌐 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-kavukua-301b88404)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammayor_x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/am.mayor_x)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavukuabrian@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 PROFILE VIEWS
+
+![](https://komarev.com/ghpvc/?username=amkabin&color=red&style=for-the-badge)
+
+### ⭐ FROM [Brian Kavukua](https://github.com/amkabin)
+
+**💼 Open to collaborations** | **🚀 Let's build together** | **📧 Always available for interesting projects**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
