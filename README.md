@@ -84,15 +84,14 @@ me.say_hi()
 
 ### 📊 GITHUB STATS
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=amkabin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=amkabin&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amkabin&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=amkabin&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=amkabin&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkabin&layout=compact&theme=radical&hide_border=true" />
+</p>
 ---
 
 ### 🏆 ACHIEVEMENTS
