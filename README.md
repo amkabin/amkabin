@@ -1,16 +1,16 @@
-# <div align="center"> 𝕭𝕽𝕀Αℕ 𝓚Α𝓥𝕌𝓚𝕌Α</div>
+# <div align="center">🚀 BRIAN KAVUKUA 🚀</div>
 
 <div align="center">
-  
+
 ### `Software Engineer | Full-Stack Developer | Digital Creator`
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&center=true&vCenter=true&width=700&lines=Building+the+future%2C+one+commit+at+a+time;Full-Stack+Developer;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Coding)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time;Full-Stack+Developer;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Coding)
 
 </div>
 
 ---
 
-### 👨‍💻 WHO AM I?
+## 👨‍💻 WHO AM I?
 
 ```python
 class Brian:
@@ -20,7 +20,7 @@ class Brian:
         self.location = "Earth 🌍"
         self.languages = ["JavaScript", "HTML", "CSS", "SQL"]
         self.passions = ["Web Dev", "Trading Bots", "Clean Code"]
-        
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something epic together 🔥")
 
@@ -30,23 +30,24 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## ⚡ Quick Facts
+## ⚡ QUICK FACTS
 
-- 🔭 Currently building full-stack web applications & open-source projects
-- 🌱 Currently learning advanced system design, cloud deployment, and AI integration
-- 💡 Passionate about clean code, scalable architecture, and solving real-world problems
-- 🚀 Goal: Build products that impact thousands of users
-- ⚡ Fun fact: I debug faster after a cup of coffee ☕
+- 🔭 Currently building **full-stack web applications**
+- 🌱 Learning **advanced React patterns & trading algorithms**
+- 💡 Passionate about **clean code & system design**
+- 🎯 2024 Goal: **Ship 10+ projects**
+- ⚡ Fun fact: **I think in semicolons;**
 - 📫 Reach me: **kavukuabrian@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ TECH TOOLBOX
+## 🛠️ TECH TOOLBOX
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
+
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -58,6 +59,7 @@ me.say_hi()
 
 <details open>
 <summary><b>⚙️ Backend</b></summary>
+
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -69,6 +71,7 @@ me.say_hi()
 
 <details open>
 <summary><b>🔧 Tools & Platforms</b></summary>
+
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -80,48 +83,71 @@ me.say_hi()
 
 </details>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amkabin&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=amkabin&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amkabin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=amkabin&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkabin&layout=compact&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkabin&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 ACHIEVEMENTS
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amkabin&theme=radical&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
 
----
+![](https://github-profile-trophy.vercel.app/?username=amkabin&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amkabin&theme=radical&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 💬 Random Dev Quote
+## 📈 CONTRIBUTION GRAPH
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</p>
+[![Brian's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amkabin&theme=radical&hide_border=true)](https://github.com/amkabin)
 
-### 🌐 CONNECT WITH ME
+---
+
+## 🎯 TOP REPOSITORIES
+
+<div align="center">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=amkabin&repo=MayorWhatsappBot&theme=radical&hide_border=true)](https://github.com/amkabin/MayorWhatsappBot)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=amkabin&repo=TradeFlow&theme=radical&hide_border=true)](https://github.com/amkabin/TradeFlow)
+
+</div>
+
+> **Note:** Replace `TradeFlow` with one of your actual repository names if it doesn't exist.
+
+---
+
+## 💬 RANDOM DEV QUOTE
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-kavukua-301b88404)
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammayor_x)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/am.mayor_x)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavukuabrian@gmail.com)
 
 </div>
@@ -130,11 +156,11 @@ me.say_hi()
 
 <div align="center">
 
-### 👀 PROFILE VIEWS
+## 👀 PROFILE VIEWS
 
 ![](https://komarev.com/ghpvc/?username=amkabin&color=red&style=for-the-badge)
 
-### ⭐ FROM [Brian Kavukua](https://github.com/amkabin)
+## ⭐ FROM [Brian Kavukua](https://github.com/amkabin)
 
 **💼 Open to collaborations** | **🚀 Let's build together** | **📧 Always available for interesting projects**
 
